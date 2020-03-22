@@ -1,0 +1,51 @@
+body{
+	background-color: #FAEBD7;
+	margin-top: 10px;
+}
+
+.container{
+  width:400px;
+  margin: auto;
+   padding:10px;
+   height: 50px;
+  
+}
+
+.form-control
+{ padding:10px;
+	margin: auto;
+  
+
+
+
+
+}
+
+.register_button{
+	background-color: orange;
+	color:black;
+	border-radius: 10px;
+	cursor: pointer;
+  text-align: center;
+  margin:0 auto;
+  text-align: center;
+  float:center
+  width: 60%;
+margin-left: 40%;
+margin-right: 30%;
+}
+
+p{
+	text-align: center;
+}
+
+
+h1{
+	text-align: center;
+	background-color: orange;
+}
+
+.card{
+
+	background-color: orange;
+}
